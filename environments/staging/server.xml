@@ -6,7 +6,8 @@
     <feature>mpMetrics-5.1</feature>
     <feature>mpHealth-4.0</feature>
     <feature>mpConfig-3.1</feature>
-    <feature>servlet-6.0</feature>
+    <feature>microProfile-6.1</feature>	
+    <feature>jakartaee-10.0</feature>	
   </featureManager>
 
   <applicationManager autoExpand="true" />
