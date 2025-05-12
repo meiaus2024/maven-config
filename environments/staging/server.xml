@@ -18,5 +18,5 @@
 
   <httpEndpoint host="*" httpPort="${default.http.port}" httpsPort="${default.https.port}" id="defaultHttpEndpoint"/>
 
-  <webApplication location="ferret-1.2.war" contextRoot="${app.context.root}"/>
+  <webApplication location="ferret.war" contextRoot="${app.context.root}"/>
 </server>
