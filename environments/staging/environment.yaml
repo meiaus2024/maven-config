@@ -28,9 +28,9 @@ app:
     cpu: 1
 
   # List of environment variables that are set for the application
-  env:
-    - name: JVM_ARGS 
-      value: "-Xms=1024m"
+  #env:
+  #  - name: JVM_ARGS 
+  #    value: "-Xms=1024m"
 
   # List of variables that can be referenced in the server.xml
   variables:
