@@ -13,10 +13,10 @@ app:
   # Enable a public endpoint for the application. If not set, the application
   # is only available on an internal endpoint accessible to other applications
   # within a subscription.
-  endpoints: public
+  #endpoints: public
   services:
     - awsEndpointService: com.amazonaws.vpce.us-east-1.vpce-svc-038584aa8a44934a3
-  
+    
   # number of instances
   instances:
     # min number of instances. can be 0 for scale to 0. default to 1.
