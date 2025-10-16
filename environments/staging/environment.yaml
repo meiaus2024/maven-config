@@ -14,6 +14,8 @@ app:
   # is only available on an internal endpoint accessible to other applications
   # within a subscription.
   endpoints: public
+  services:
+    - awsEndpointService: com.amazonaws.vpce.us-east-1.vpce-svc-038584aa8a44934a3
   
   # number of instances
   instances:
